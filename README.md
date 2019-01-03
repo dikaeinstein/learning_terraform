@@ -1,2 +1,2 @@
 # learning_terraform
-A basic terraform config to provision a Digital Ocean droplet
+A basic terraform config to setup a Digital Ocean droplet
